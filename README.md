@@ -1,4 +1,4 @@
-# zerotsuku2_mokumoku
+# zerotsuku1_mokumoku
 DSL主催の、「ゼロから作るDeep Learning 1」のもくもく会用のリポジトリになります。
 
 # 概要
